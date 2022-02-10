@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468492461015",
+    "firebase_url": "https://imagereader-4427d.firebaseio.com",
+    "project_id": "imagereader-4427d",
+    "storage_bucket": "imagereader-4427d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468492461015:android:8c490d2db04da50f9ae192",
+        "android_client_info": {
+          "package_name": "com.way2itech.imagereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468492461015-k1nbhfpto0et22lholk3280qglcp15jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe82ncro-nwLaeub8cB5zgQJbkhCbz4cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468492461015-k1nbhfpto0et22lholk3280qglcp15jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
